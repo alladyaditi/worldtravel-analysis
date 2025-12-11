@@ -1,7 +1,4 @@
-Here is a **professional, polished, and portfolio-ready README.md** for your **World Travel Analysis** project.
-You can copy and paste it directly into your `README.md` file in your project folder.
 
----
 
 # 🌍 **World Travel Analysis**
 

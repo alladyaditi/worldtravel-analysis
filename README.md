@@ -140,7 +140,7 @@ Visuals created in Python include:
 * Bar charts comparing attribute averages
 * Rankings of cities by travel score
 
-(Place PNG images in the `visuals/` folder and embed them here if desired.)
+ 
 
 ---
 
